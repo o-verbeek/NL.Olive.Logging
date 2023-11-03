@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33927.249
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NL.Olive.Logging", "NL.Olive.Logging.csproj", "{717DC5E3-66F6-44B0-8722-035F150F5A2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NL.Olive.Logging", "NL.Olive.Logging.csproj", "{717DC5E3-66F6-44B0-8722-035F150F5A2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
